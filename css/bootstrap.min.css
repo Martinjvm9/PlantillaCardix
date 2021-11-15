@@ -153,7 +153,7 @@ sup {
   top: -0.5em;
 }
 a {
-  color: #007bff;
+  color: #0077ff;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -216,7 +216,7 @@ label {
   margin-bottom: 0.5rem;
 }
 button {
-  border-radius: 0;
+  border-radius: ;
 }
 button:focus {
   outline: 1px dotted;
@@ -4434,7 +4434,7 @@ tbody.collapse.show {
   border: 1px solid #dee2e6;
 }
 .page-link:hover {
-  color: #0056b3;
+  color: #1e85fb;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
